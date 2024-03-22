@@ -572,7 +572,7 @@ width: 130px;
     width: 80px;
     background-image: url(realmephone.png);
     background-size: cover;
-    margin-left:2px;
+    margin-left:15px;
 }
 .details5{
     font-size: 17px;
@@ -643,7 +643,7 @@ width: 130px;
     color: rgb(255, 230, 0);
 }
 .end{
-     width: 15%;
+     width: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -655,8 +655,6 @@ width: 130px;
     height: 70px;
     background-image: url(paymethod.PNG);
     background-size: contain;
-    
-   
 }
 
 
